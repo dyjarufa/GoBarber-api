@@ -1,0 +1,4 @@
+node_modules/
+ANNOTATIONS/
+tmp/*
+!tmp/.gitkeep
